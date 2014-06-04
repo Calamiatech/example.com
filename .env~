@@ -1,0 +1,16 @@
+DB_NAME=bitnami_wordpress
+DB_USER=bn_wordpress
+DB_PASSWORD=520f06e918
+DB_HOST=localhost:3306
+
+WP_ENV=development
+WP_HOME=http://example.com
+WP_SITEURL=http://example.com/wp
+AUTH_KEY='+/ORXco9sZK}t<DnvG+JY5:K4:xdgbF/|-OW[3rbo2>HPrV@YNgifcT9|&#f(ed*'
+SECURE_AUTH_KEY='{Rz9hR@vgZ3W*ltBYzJ4C~zB5?HJcKn>>NX;+vr/-_TY=#{R?viAkH1^F;lIFzxt'
+LOGGED_IN_KEY='#_p4cG1[ohHg-tY(O6eYa6AG1M^,@?mK)Ca 925[!|`QsOu6hzrh+ROT~pM1nZ?,'
+NONCE_KEY='<?^W1HGxGw%Y@.r(tI}l{B4^QdC42AYQzA|<7Fla1{Yz-^eak`l;s&@8-azIB[]1'
+AUTH_SALT='j[O&pZ*&LBcrdgrn:Djpg_[}_ivi=g9b`k(f!V h[]z<`Rb<_lc>=}^$;: <dR>,'
+SECURE_AUTH_SALT='27?yo_G?55{Wj}J+?M)`yU3tRMhU`;NS3M&(tj&{^2I]P(^NqVDPb,9TF&|v#N%B'
+LOGGED_IN_SALT='{Rff0 +BKzm{d>yuK29LWE+<g`j(D[gpAlu<,moDLBpPqO90dF?Z9~N&)WVjG2y7'
+NONCE_SALT='$TU758/d:mSm1o#4T!qpZ3=FmOOSc#l&s5J]AG<xTGJgVi@a)<qFQj!2Xlh0[sCc'
